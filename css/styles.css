@@ -1,0 +1,27 @@
+body {
+    background-color: #61122f;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar {
+    position: relative;
+    width: 100%;
+    z-index: 1000;
+    color: #000000;
+}
+
+.navbar-default {
+    background-color: #000000;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-color: black;
+}
+
+.content-section {
+    margin: 10px;
+    height: 1000px;
+    background-color: #7b7a7a;
+    color: white;
+}
